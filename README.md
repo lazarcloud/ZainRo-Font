@@ -41,4 +41,4 @@ The project continues to use the SIL Open Font License 1.1 (see `LICENSE.txt`). 
 
 ## Credits
 - Original design: [Google Fonts Zain project](https://github.com/googlefonts/zain)
-- Romanian glyph additions: Myself
+- Romanian glyph additions: [Myself](https://bylazar.com)
