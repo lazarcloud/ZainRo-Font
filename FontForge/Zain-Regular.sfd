@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: Zain-Regular
-FullName: Zain Regular
-FamilyName: Zain
-Weight: Book
-Copyright: Copyright 2024 The Zain Project Authors (https://github.com/googlefonts/zain)
+FontName: ZainRo-Regular
+FullName: ZainRo Regular
+FamilyName: ZainRo
+Weight: Regular
+Copyright: Copyright 2024 The Zain Project Authors (https://github.com/googlefonts/zain) and 2025 Lazar (https://bylazar.com)
 Version: 1.51; ttfautohint (v1.8.4)
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1722724807
-ModificationTime: 1728037139
+ModificationTime: 1760719388
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -87,6 +87,7 @@ Lookup: 260 0 0 "'mark' Mark Positioning lookup 4" { "'mark' Mark Positioning lo
 Lookup: 261 1 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 1 0 "'mkmk' Mark to Mark lookup 6" { "'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 1 0 "'mkmk' Mark to Mark lookup 7" { "'mkmk' Mark to Mark lookup 7 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 1+ 2 "'kern' Horizontal Kerning lookup 0 kerning class 1"
  50 A Agrave Aacute Acircumflex Atilde Adieresis Aring
@@ -3987,7 +3988,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "1BOU:Zain-Regular:2024" "" "Version 1.51; ttfautohint (v1.8.4)" "" "" "Mobile Telecommunications Company (Zain), 2024" "Zain,Boutros" "" "http://www.zain.com" "http://www.zain.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
+LangName: 1033 "" "" "" "1BOU:ZainRo-Regular:2024" "" "Version 1.51; ttfautohint (v1.8.4)" "" "" "Mobile Telecommunications Company (Zain), 2024" "Zain,Boutros,Lazar" "" "http://www.zain.com" "http://www.zain.com" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org" "https://openfontlicense.org"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -3995,7 +3996,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 38 14
+WinInfo: 76 38 14
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 190840 95420 63613 385876 1048576 63613 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 3 subtable" "Anchor-1" "'mark' Mark Positioning lookup 3 subtable" "Anchor-2" "'mark' Mark Positioning lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning lookup 5 subtable" "Anchor-5" "'mark' Mark Positioning lookup 5 subtable" "Anchor-6" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-7" "'mkmk' Mark to Mark lookup 7 subtable"
 BeginChars: 65557 609
 
